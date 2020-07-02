@@ -1,0 +1,256 @@
+Combination no,Combination,Mean Squared error,Root Mean Squared Error
+52,"'SJR', 'H Index', 'Ref/Doc'",0.17591403235434627,0.4194210680859347
+147,"'SJR', 'H Index', 'Total Cites(3years)', 'Ref/Doc'",0.1794739529923872,0.4236436627548997
+144,"'SJR', 'H Index', 'Total Refs', 'Ref/Doc'",0.1809989060237447,0.42543966202476313
+135,"'SJR', 'H Index', 'Total Docs(2017)', 'Ref/Doc'",0.182359347483759,0.4270355342167195
+264,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs', 'Ref/Doc'",0.18372189684647308,0.4286279235496366
+140,"'SJR', 'H Index', 'Total Docs(3years)', 'Ref/Doc'",0.1901922193471112,0.4361103293286129
+149,"'SJR', 'H Index', 'Citable Docs(3years)', 'Ref/Doc'",0.19278411722841057,0.43907188161895605
+274,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",0.19802860586868964,0.4450040515194099
+385,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",0.20359419503426676,0.45121413434672764
+260,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Ref/Doc'",0.205075595914137,0.4528527309337297
+285,"'SJR', 'H Index', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.20562607931909957,0.45346011877462783
+283,"'SJR', 'H Index', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.21276004041374474,0.4612591900588483
+396,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.2157446425520091,0.4644831994292249
+269,"'SJR', 'H Index', 'Total Docs(2017)', 'Citable Docs(3years)', 'Ref/Doc'",0.21696784772172742,0.46579807612497437
+394,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.21847358081698448,0.46741157539901007
+267,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Cites(3years)', 'Ref/Doc'",0.2187459933184665,0.4677028900043985
+279,"'SJR', 'H Index', 'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.2564027345467434,0.5063622562422513
+406,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.26504857438906715,0.5148286845049207
+470,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.2661551107074939,0.5159022297950396
+390,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.2674386259570638,0.5171446857090033
+277,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",0.2887624342246109,0.5373662012302327
+404,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.28920713008122184,0.5377798156134366
+201,"'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",0.2998177598611063,0.5475561705077446
+388,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",0.3019275713140028,0.5494793638654711
+288,"'SJR', 'H Index', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.3078672197234628,0.5548578373993314
+413,"'SJR', 'H Index', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.3095460882288687,0.5563686621556508
+399,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.329713083102202,0.5742064812436394
+48,"'SJR', 'H Index', 'Total Refs'",0.33929122731276956,0.5824871048467679
+468,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.33940161644188965,0.5825818538556532
+10,"'SJR', 'H Index'",0.34064462214892466,0.5836476866645877
+70,"'SJR', 'Total Cites(3years)', 'Ref/Doc'",0.3560732726539136,0.5967187550713599
+49,"'SJR', 'H Index', 'Total Cites(3years)'",0.3582849110006879,0.5985690528257269
+46,"'SJR', 'H Index', 'Total Docs(2017)'",0.36644291044955535,0.6053452820081737
+58,"'SJR', 'Total Docs(2017)', 'Ref/Doc'",0.3721291819295909,0.6100239191454634
+409,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.37295456835271124,0.6107000641499157
+482,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.3733866566261652,0.6110537264645108
+91,"'H Index', 'Total Cites(3years)', 'Ref/Doc'",0.37406366577986916,0.6116074441828427
+159,"'SJR', 'Total Docs(2017)', 'Total Refs', 'Ref/Doc'",0.37427869767691574,0.6117832113395363
+477,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.3764257916201749,0.6135354852167679
+130,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)'",0.37950316844397475,0.616038284884937
+47,"'SJR', 'H Index', 'Total Docs(3years)'",0.38264651340110056,0.6185842815664657
+473,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.38266265424844415,0.6185973280320924
+194,"'H Index', 'Total Docs(2017)', 'Total Refs', 'Ref/Doc'",0.38542259620950575,0.6208241266329022
+294,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",0.3882201145122358,0.6230731213206326
+155,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Ref/Doc'",0.3904747681301486,0.6248798029462534
+50,"'SJR', 'H Index', 'Citable Docs(3years)'",0.39049550223797785,0.6248963932028876
+67,"'SJR', 'Total Refs', 'Ref/Doc'",0.3939913417752846,0.6276872961716563
+141,"'SJR', 'H Index', 'Total Refs', 'Total Cites(3years)'",0.3941086278379196,0.6277807163635402
+133,"'SJR', 'H Index', 'Total Docs(2017)', 'Citable Docs(3years)'",0.39652901191026085,0.6297054961728227
+303,"'SJR', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.3972142699150644,0.6302493712135415
+136,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs'",0.39837389684763136,0.6311686754328286
+63,"'SJR', 'Total Docs(3years)', 'Ref/Doc'",0.39968052537762055,0.6322029147177515
+305,"'SJR', 'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.40054938414907737,0.632889709308879
+24,"'H Index', 'Ref/Doc'",0.40242715865317485,0.6343714674015335
+164,"'SJR', 'Total Docs(2017)', 'Citable Docs(3years)', 'Ref/Doc'",0.4043713592970926,0.6359020044763914
+79,"'H Index', 'Total Docs(2017)', 'Ref/Doc'",0.406218792361544,0.6373529574431611
+191,"'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)'",0.4076924611170264,0.638507996126146
+503,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.4094665214716454,0.6398957114027609
+256,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs'",0.40980706600406136,0.6401617498758118
+169,"'SJR', 'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",0.4099025487215408,0.6402363225571795
+72,"'SJR', 'Citable Docs(3years)', 'Ref/Doc'",0.4118022294918515,0.6417181854146348
+142,"'SJR', 'H Index', 'Total Refs', 'Citable Docs(3years)'",0.4158522875208408,0.6448661004587237
+178,"'SJR', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.4172079589562693,0.645916371488035
+84,"'H Index', 'Total Docs(3years)', 'Ref/Doc'",0.41959618503387985,0.6477624449085327
+262,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)'",0.42126915216846356,0.649052503398965
+93,"'H Index', 'Citable Docs(3years)', 'Ref/Doc'",0.4217708369583766,0.6494388631413865
+131,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs'",0.4226734314631813,0.650133395129939
+88,"'H Index', 'Total Refs', 'Ref/Doc'",0.42281709902936554,0.6502438765796765
+204,"'H Index', 'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",0.4266415698641511,0.6531780537220698
+180,"'SJR', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.42779471809981523,0.6540601792647335
+329,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",0.43503037454277543,0.6595683243931408
+215,"'H Index', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.43612175807005943,0.6603951529728693
+162,"'SJR', 'Total Docs(2017)', 'Total Cites(3years)', 'Ref/Doc'",0.44178378465319146,0.6646681763505693
+85,"'H Index', 'Total Refs', 'Total Cites(3years)'",0.45416357750960734,0.6739165953659305
+299,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.45478048091216927,0.6743741401567599
+340,"'H Index', 'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.45896926747268524,0.6774727060721231
+421,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.4599832544395393,0.6782206532092188
+190,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Ref/Doc'",0.4600159707849941,0.6782447720292388
+21,"'H Index', 'Total Cites(3years)'",0.4646391972666385,0.6816444801116184
+17,"'SJR', 'Ref/Doc'",0.46534908259922403,0.6821649966094889
+174,"'SJR', 'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.4664777298959815,0.6829917495079875
+261,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)'",0.4762586687814373,0.6901149677998857
+315,"'SJR', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.47773352108924505,0.6911826973306299
+75,"'H Index', 'Total Docs(2017)', 'Total Refs'",0.4811074516292069,0.6936190969323198
+132,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Cites(3years)'",0.4827999277117294,0.6948380586235395
+199,"'H Index', 'Total Docs(2017)', 'Citable Docs(3years)', 'Ref/Doc'",0.4828186820908281,0.6948515539961237
+20,"'H Index', 'Total Refs'",0.4836210129678153,0.6954286541175991
+213,"'H Index', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.4836943357357579,0.6954813697977523
+80,"'H Index', 'Total Docs(3years)', 'Total Refs'",0.48948514042031144,0.6996321465029401
+76,"'H Index', 'Total Docs(2017)', 'Total Cites(3years)'",0.49184152003770015,0.7013141379137455
+258,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)'",0.4986480388923241,0.7061501532197838
+338,"'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.5008236457001733,0.7076889469959053
+81,"'H Index', 'Total Docs(3years)', 'Total Cites(3years)'",0.502433750891059,0.7088256138790832
+138,"'SJR', 'H Index', 'Total Docs(3years)', 'Citable Docs(3years)'",0.5076294300381325,0.7124811787255384
+2,'H Index',0.5096877664801445,0.7139242021952642
+187,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)'",0.5118444259279077,0.7154330338528602
+326,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",0.5128951359805252,0.7161669749300963
+197,"'H Index', 'Total Docs(2017)', 'Total Cites(3years)', 'Ref/Doc'",0.5190325106372672,0.7204391095972422
+209,"'H Index', 'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.5225525394460427,0.7228779561212548
+272,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",0.5240378925405504,0.7239046156369985
+442,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.5272130423216704,0.7260943756301039
+350,"'H Index', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",0.5296319638886765,0.7277581767927287
+419,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.5450339758546386,0.7382641640054315
+383,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",0.547687945685274,0.7400594203746574
+313,"'SJR', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.5527348517732467,0.743461398979965
+334,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.5537440523772271,0.7441398070102332
+172,"'SJR', 'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",0.5587649566697032,0.7475058238366462
+297,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",0.5619115623671568,0.7496076055958589
+382,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",0.5758231577925,0.7588301244629789
+271,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",0.5771777428477822,0.7597221484515126
+428,"'SJR', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.5865888491598231,0.7658908859359949
+322,"'SJR', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.5884592371891669,0.7671109679760595
+183,"'SJR', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.5913834754640717,0.7690146132968292
+308,"'SJR', 'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.5991273845486761,0.7740331934411315
+18,"'H Index', 'Total Docs(2017)'",0.6050132687204517,0.77782598871499
+257,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)'",0.6054570384817215,0.7781111993036224
+488,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.6119849327250653,0.7822946585047512
+281,"'SJR', 'H Index', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",0.6123278754214143,0.7825138180386428
+137,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Cites(3years)'",0.6127393486418936,0.7827766914273148
+392,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",0.6189265212292305,0.7867188323850082
+433,"'SJR', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.6310339011596654,0.7943764228372249
+318,"'SJR', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.6360926253984038,0.7975541520162778
+19,"'H Index', 'Total Docs(3years)'",0.6368590514128357,0.7980344926209867
+424,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.6375021842004739,0.7984373389317874
+265,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)'",0.647752420856691,0.8048306783769434
+145,"'SJR', 'H Index', 'Total Cites(3years)', 'Citable Docs(3years)'",0.6486432123843281,0.8053838913116701
+74,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)'",0.651521627558143,0.8071688965502468
+186,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs'",0.65350019087177,0.8083935866097467
+22,"'H Index', 'Citable Docs(3years)'",0.6547685795130104,0.8091777181268713
+77,"'H Index', 'Total Docs(2017)', 'Citable Docs(3years)'",0.6895328593840416,0.830381153076129
+348,"'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.7124012731774625,0.8440386680582013
+466,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",0.7289512178772238,0.8537864006162337
+207,"'H Index', 'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",0.7345522861818141,0.8570602581976451
+402,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",0.735790166830615,0.8577821208387448
+86,"'H Index', 'Total Refs', 'Citable Docs(3years)'",0.7361726199961456,0.8580050232930724
+192,"'H Index', 'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)'",0.7456845045378656,0.8635302568745727
+357,"'H Index', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.7507921387651546,0.8664826246181482
+332,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",0.7599974232516761,0.8717783108403627
+386,"'SJR', 'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",0.7665563854812704,0.8755320585114347
+218,"'H Index', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.7678342104691686,0.8762614966259608
+275,"'SJR', 'H Index', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",0.7790791408507981,0.8826545988385254
+14,"'SJR', 'Total Cites(3years)'",0.7922195651812796,0.8900671689155149
+13,"'SJR', 'Total Refs'",0.7930500607976458,0.8905335820718081
+343,"'H Index', 'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.8117913342424807,0.9009946360786399
+454,"'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.8239365949070393,0.9077095322332135
+42,"'Total Cites(3years)', 'Ref/Doc'",0.8259615289415996,0.9088242563563098
+11,"'SJR', 'Total Docs(2017)'",0.8320367361202763,0.9121604771750836
+353,"'H Index', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.842906184183453,0.9180992234957249
+64,"'SJR', 'Total Refs', 'Total Cites(3years)'",0.8577275173371618,0.9261357985399127
+53,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)'",0.8615124661787069,0.9281769584398801
+445,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.862319629000636,0.9286116674911187
+440,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",0.8671558968770532,0.9312120579529956
+82,"'H Index', 'Total Docs(3years)', 'Citable Docs(3years)'",0.8763981641515436,0.9361613985587868
+188,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)'",0.8775272234167834,0.9367642304319606
+56,"'SJR', 'Total Docs(2017)', 'Citable Docs(3years)'",0.8806196542012996,0.9384133706428631
+59,"'SJR', 'Total Docs(3years)', 'Total Refs'",0.8849735391564505,0.9407303222265404
+54,"'SJR', 'Total Docs(2017)', 'Total Refs'",0.9010681189020598,0.949246079213425
+12,"'SJR', 'Total Docs(3years)'",0.9069751507234834,0.9523524298932006
+151,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs'",0.9092196773533113,0.9535301135010427
+65,"'SJR', 'Total Refs', 'Citable Docs(3years)'",0.9095346328013613,0.9536952515355004
+157,"'SJR', 'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)'",0.9220936142985968,0.9602570563649073
+15,"'SJR', 'Citable Docs(3years)'",0.9249407864001014,0.9617384189061501
+449,"'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.929439379780342,0.9640743642377085
+202,"'H Index', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",0.9303785481312457,0.9645613241941882
+495,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",0.9327779308870788,0.965804292228544
+55,"'SJR', 'Total Docs(2017)', 'Total Cites(3years)'",0.9676630346399343,0.9836986503192603
+327,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",0.9793559645883709,0.9896241531957326
+156,"'SJR', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)'",0.9991735792974764,0.9995867042420464
+153,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)'",1.004997623433731,1.0024956974639496
+1,'SJR',1.0053693081468864,1.0026810600319955
+233,"'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",1.005613732845558,1.0028029381915262
+167,"'SJR', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",1.032661548413332,1.0161995613132944
+122,"'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",1.0540838561292731,1.0266858604896014
+61,"'SJR', 'Total Docs(3years)', 'Citable Docs(3years)'",1.0558634702995378,1.0275521740036064
+292,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",1.0765455707219902,1.0375671403441755
+152,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)'",1.137054692967127,1.0663276667924955
+291,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",1.1374647730087348,1.066519935588986
+166,"'SJR', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",1.1400837712604177,1.0677470539694398
+60,"'SJR', 'Total Docs(3years)', 'Total Cites(3years)'",1.157789668060383,1.0760063513104292
+160,"'SJR', 'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)'",1.1879669672286668,1.089938974084635
+176,"'SJR', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.1884459920039008,1.0901587003752713
+301,"'SJR', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.1902490963656693,1.0909853786213954
+68,"'SJR', 'Total Cites(3years)', 'Citable Docs(3years)'",1.2070573653368988,1.098661624585522
+106,"'Total Docs(2017)', 'Total Cites(3years)', 'Ref/Doc'",1.2996835929468133,1.1400366629836136
+417,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.308781531464805,1.144019899942656
+295,"'SJR', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",1.3098920120915745,1.1445051385168938
+311,"'SJR', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.3121987415673602,1.1455124362342646
+30,"'Total Docs(2017)', 'Ref/Doc'",1.325818858174383,1.1514420776462806
+170,"'SJR', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",1.333959963646553,1.154971845391286
+99,"'Total Docs(2017)', 'Total Docs(3years)', 'Ref/Doc'",1.3454391941998478,1.1599306850841768
+103,"'Total Docs(2017)', 'Total Refs', 'Ref/Doc'",1.3462040500804122,1.1602603372004114
+224,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",1.358374238843069,1.1654931311865673
+108,"'Total Docs(2017)', 'Citable Docs(3years)', 'Ref/Doc'",1.3836058043180508,1.1762677434657685
+35,"'Total Docs(3years)', 'Ref/Doc'",1.388825790401394,1.178484531252487
+235,"'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",1.389430371567854,1.1787410112352306
+113,"'Total Docs(3years)', 'Total Refs', 'Ref/Doc'",1.4021734186669959,1.184134037458174
+39,"'Total Refs', 'Ref/Doc'",1.4207988238623386,1.1919726607025594
+229,"'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.4262233807064415,1.1942459464894328
+44,"'Citable Docs(3years)', 'Ref/Doc'",1.4365371780117866,1.1985562890460284
+363,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",1.4374848317069453,1.198951555196016
+124,"'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",1.4587911179416473,1.2078042548118662
+365,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",1.4626880816837855,1.2094164219505974
+460,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.464516933220189,1.2101722741908232
+118,"'Total Docs(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.4720862672102437,1.2132956223485865
+245,"'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)', 'Ref/Doc'",1.4845362843162095,1.2184154809900478
+372,"'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.4996220212950426,1.2245905525093042
+211,"'H Index', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.520980680478237,1.2332804549161707
+243,"'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Ref/Doc'",1.5238047640557002,1.234424871774585
+89,"'H Index', 'Total Cites(3years)', 'Citable Docs(3years)'",1.5348267419234962,1.23888124609403
+195,"'H Index', 'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)'",1.5547037136023438,1.2468775856523944
+377,"'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.5728618006237747,1.2541378714574305
+336,"'H Index', 'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.5785186330358947,1.256391114675639
+252,"'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.5943353142468042,1.262669915000276
+116,"'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",1.6581910683221963,1.287707679685959
+227,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Ref/Doc'",1.6697734228304053,1.2921971300194122
+248,"'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.6880493543660042,1.2992495350647635
+368,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.6964774031650225,1.3024889263118602
+127,"'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.7113754573867197,1.3081954966237728
+346,"'H Index', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.7147061703801099,1.3094678958951647
+438,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",1.7296390930118146,1.3151574403894823
+205,"'H Index', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",1.7333083284807544,1.3165516809000528
+330,"'H Index', 'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",1.734431880040029,1.3169783141874543
+238,"'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)', 'Ref/Doc'",1.735345606067033,1.3173251709684413
+9,'Ref/Doc',1.843635441141014,1.3578053767536105
+231,"'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",3.386064216683149,1.8401261415139858
+3,'Total Docs(2017)',3.394123267521803,1.8423146494347276
+104,"'Total Docs(2017)', 'Total Cites(3years)', 'Citable Docs(3years)'",3.429843718503498,1.851983725226412
+120,"'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",3.436679170353652,1.8538282472639291
+40,"'Total Cites(3years)', 'Citable Docs(3years)'",3.438292254850522,1.8542632647093351
+25,"'Total Docs(2017)', 'Total Docs(3years)'",3.4508084713059897,1.8576351825118917
+37,"'Total Refs', 'Citable Docs(3years)'",3.5000746422344653,1.8708486422568944
+28,"'Total Docs(2017)', 'Citable Docs(3years)'",3.5024916449120598,1.8714944950258496
+361,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",3.5198735609768397,1.8761326075138824
+225,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",3.5641316070690894,1.8878907826114013
+241,"'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)', 'Citable Docs(3years)'",3.576237444910698,1.8910942453803559
+114,"'Total Docs(3years)', 'Total Cites(3years)', 'Citable Docs(3years)'",3.5770104741788225,1.8912986211010736
+101,"'Total Docs(2017)', 'Total Refs', 'Citable Docs(3years)'",3.5940501443909088,1.8957980231002745
+4,'Total Docs(3years)',3.6559479005471234,1.9120533205293004
+111,"'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",3.7243220519497733,1.9298502667175434
+96,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Cites(3years)'",3.7346294296789266,1.9325189338474609
+7,'Citable Docs(3years)',3.7365445409763547,1.9330143664692083
+97,"'Total Docs(2017)', 'Total Docs(3years)', 'Citable Docs(3years)'",3.769753664174565,1.9415853481561312
+27,"'Total Docs(2017)', 'Total Cites(3years)'",3.794376667723286,1.947915980663254
+222,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Citable Docs(3years)'",3.912264466648079,1.9779445054520814
+33,"'Total Docs(3years)', 'Citable Docs(3years)'",3.9835749055832617,1.9958895023480787
+32,"'Total Docs(3years)', 'Total Cites(3years)'",4.119572541096961,2.0296730133440115
+95,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs'",4.333597223471973,2.0817293828622327
+221,"'Total Docs(2017)', 'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",4.780999397630881,2.1865496558804423
+26,"'Total Docs(2017)', 'Total Refs'",7.03599020233759,2.652544099979789
+110,"'Total Docs(3years)', 'Total Refs', 'Total Cites(3years)'",9.048521005886826,3.008075964115073
+36,"'Total Refs', 'Total Cites(3years)'",9.125719336338486,3.0208805564501366
+31,"'Total Docs(3years)', 'Total Refs'",10.498762899570456,3.2401794548404963
+5,'Total Refs',10.529213857366162,3.244875014136317
+100,"'Total Docs(2017)', 'Total Refs', 'Total Cites(3years)'",13.080562654753365,3.6167060503659076
+6,'Total Cites(3years)',14.532528467902578,3.8121553572621587
